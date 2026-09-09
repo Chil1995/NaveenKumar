@@ -1,7 +1,6 @@
-# 💻 About Me:
-I am a **Senior Python Developer** specializing in **full-stack development** and **dynamic web applications**.  
-At **Modak Analytics**, I architected a **Vue.js framework** that enabled real-time UI updates without traditional CI/CD cycles.  
-I also developed an **intelligent web SQL editor** with real-time, **context-aware suggestions**, improving user productivity.  
-Completed **Master's in Computer Science and Info Systems**, I combine hands-on experience with academic knowledge to deliver **efficient and secure software solutions**.  
-
-
+AI/ML Engineer and Senior Software Engineer with 8+ years building production systems and 2+ years designing, shipping, and
+operating agentic AI platforms end-to-end. Architect of Sage AI — an organization-wide AI agent platform on Google Agent
+Development Kit (ADK), Vertex AI, Gemini, and Claude — with MCP servers/agents, multi-model LLM orchestration, RAG grounding,
+knowledge graphs, and persistent agent memory. Hands-on with prompt engineering, evaluation harnesses, developer tooling, and
+production reliability on Docker, Kubernetes, and Google Cloud. Strong Python / Node.js / TypeScript engineering with CI/CD,
+observability, and cost-aware model routing. Enterprise delivery for Lifevantage, GSK, AbbVie, Humana, and Keylane.
